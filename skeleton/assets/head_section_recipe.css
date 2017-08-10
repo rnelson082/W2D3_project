@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: fuchsia;
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+
+header > img {
+  width: 100px;
+}
+
+ul > li > a {
+  text-decoration: initial;
+}
+
+.ingredients_list {
+  list-style: square inside
+}
+
+form {
+  background-color: aqua
+
+}
+
+ ol {
+   list-style: disc
+ }
